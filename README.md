@@ -10,3 +10,6 @@
 
 - DSA/DSS Keygenerator
   - https://www.virustotal.com/gui/url/9755939fd2951880519d282d0b3c4afc557d046ca090cbe99b779fb04a980799
+
+- ELGAMAL SiGNiT (ElGamal Signature Scheme)
+  - https://www.virustotal.com/gui/url/044c92e12cc2c428c379ff22af47ef916e83ff5d4bfec897379a80890363168b
